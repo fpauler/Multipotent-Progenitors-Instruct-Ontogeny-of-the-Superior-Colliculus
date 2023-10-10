@@ -1,2 +1,2 @@
 # Multipotent-Progenitors-Instruct-Ontogeny-of-the-Superior-Colliculus
-Scripts for ananlyses used in Cheung, Pauler, Koppensteiner et al.
+Raw figures/tables as well as scripts for Cheung, Pauler, Koppensteiner et al.
