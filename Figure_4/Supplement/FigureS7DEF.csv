@@ -1,0 +1,175 @@
+"","cell_types","variable","value"
+"1",2,"coverage",0.5
+"2",2,"coverage",0.5
+"3",2,"coverage",0.428571428571429
+"4",2,"coverage",0.666666666666667
+"5",1,"coverage",0.4
+"6",2,"coverage",0.4
+"7",1,"coverage",0.625
+"8",1,"coverage",0.666666666666667
+"9",1,"coverage",1
+"10",2,"coverage",0.75
+"11",1,"coverage",0.5
+"12",2,"coverage",0.444444444444444
+"13",1,"coverage",0.666666666666667
+"14",2,"coverage",0.6
+"15",2,"coverage",0.409090909090909
+"16",1,"coverage",0.75
+"17",2,"coverage",0.315789473684211
+"18",1,"coverage",0.416666666666667
+"19",2,"coverage",1
+"20",2,"coverage",0.5625
+"21",1,"coverage",0.5
+"22",2,"coverage",0.6
+"23",2,"coverage",0.375
+"24",2,"coverage",0.5
+"25",1,"coverage",0.5
+"26",2,"coverage",0.307692307692308
+"27",2,"coverage",0.5
+"28",1,"coverage",0.333333333333333
+"29",2,"coverage",0.333333333333333
+"30",2,"coverage",0.857142857142857
+"31",2,"coverage",0.333333333333333
+"32",2,"coverage",0.454545454545455
+"33",2,"coverage",0.363636363636364
+"34",2,"coverage",0.5
+"35",2,"coverage",0.625
+"36",2,"coverage",0.444444444444444
+"37",2,"coverage",0.75
+"38",2,"coverage",0.818181818181818
+"39",2,"coverage",0.75
+"40",1,"coverage",0.666666666666667
+"41",2,"coverage",0.75
+"42",2,"coverage",0.833333333333333
+"43",2,"coverage",0.714285714285714
+"44",2,"coverage",0.833333333333333
+"45",2,"coverage",0.75
+"46",2,"coverage",0.375
+"47",2,"coverage",0.666666666666667
+"48",2,"coverage",0.8
+"49",2,"coverage",0.8
+"50",1,"coverage",0.461538461538462
+"51",2,"coverage",0.571428571428571
+"52",2,"coverage",0.714285714285714
+"53",2,"coverage",0.636363636363636
+"54",2,"coverage",1
+"55",2,"coverage",0.666666666666667
+"56",2,"coverage",0.8
+"57",2,"coverage",0.8
+"58",2,"coverage",0.4
+"59",2,"total_clone_size",4
+"60",2,"total_clone_size",6
+"61",2,"total_clone_size",7
+"62",2,"total_clone_size",3
+"63",1,"total_clone_size",5
+"64",2,"total_clone_size",5
+"65",1,"total_clone_size",8
+"66",1,"total_clone_size",3
+"67",1,"total_clone_size",2
+"68",2,"total_clone_size",4
+"69",1,"total_clone_size",4
+"70",2,"total_clone_size",9
+"71",1,"total_clone_size",3
+"72",2,"total_clone_size",5
+"73",2,"total_clone_size",22
+"74",1,"total_clone_size",4
+"75",2,"total_clone_size",19
+"76",1,"total_clone_size",12
+"77",2,"total_clone_size",4
+"78",2,"total_clone_size",16
+"79",1,"total_clone_size",4
+"80",2,"total_clone_size",10
+"81",2,"total_clone_size",16
+"82",2,"total_clone_size",6
+"83",1,"total_clone_size",6
+"84",2,"total_clone_size",13
+"85",2,"total_clone_size",4
+"86",1,"total_clone_size",6
+"87",2,"total_clone_size",6
+"88",2,"total_clone_size",14
+"89",2,"total_clone_size",6
+"90",2,"total_clone_size",11
+"91",2,"total_clone_size",11
+"92",2,"total_clone_size",6
+"93",2,"total_clone_size",16
+"94",2,"total_clone_size",27
+"95",2,"total_clone_size",8
+"96",2,"total_clone_size",11
+"97",2,"total_clone_size",4
+"98",1,"total_clone_size",3
+"99",2,"total_clone_size",8
+"100",2,"total_clone_size",12
+"101",2,"total_clone_size",7
+"102",2,"total_clone_size",6
+"103",2,"total_clone_size",4
+"104",2,"total_clone_size",8
+"105",2,"total_clone_size",6
+"106",2,"total_clone_size",5
+"107",2,"total_clone_size",5
+"108",1,"total_clone_size",13
+"109",2,"total_clone_size",7
+"110",2,"total_clone_size",7
+"111",2,"total_clone_size",11
+"112",2,"total_clone_size",2
+"113",2,"total_clone_size",6
+"114",2,"total_clone_size",5
+"115",2,"total_clone_size",5
+"116",2,"total_clone_size",5
+"117",2,"# informative cells",2
+"118",2,"# informative cells",3
+"119",2,"# informative cells",3
+"120",2,"# informative cells",2
+"121",1,"# informative cells",2
+"122",2,"# informative cells",2
+"123",1,"# informative cells",5
+"124",1,"# informative cells",2
+"125",1,"# informative cells",2
+"126",2,"# informative cells",3
+"127",1,"# informative cells",2
+"128",2,"# informative cells",4
+"129",1,"# informative cells",2
+"130",2,"# informative cells",3
+"131",2,"# informative cells",9
+"132",1,"# informative cells",3
+"133",2,"# informative cells",6
+"134",1,"# informative cells",5
+"135",2,"# informative cells",4
+"136",2,"# informative cells",9
+"137",1,"# informative cells",2
+"138",2,"# informative cells",6
+"139",2,"# informative cells",6
+"140",2,"# informative cells",3
+"141",1,"# informative cells",3
+"142",2,"# informative cells",4
+"143",2,"# informative cells",2
+"144",1,"# informative cells",2
+"145",2,"# informative cells",2
+"146",2,"# informative cells",12
+"147",2,"# informative cells",2
+"148",2,"# informative cells",5
+"149",2,"# informative cells",4
+"150",2,"# informative cells",3
+"151",2,"# informative cells",10
+"152",2,"# informative cells",12
+"153",2,"# informative cells",6
+"154",2,"# informative cells",9
+"155",2,"# informative cells",3
+"156",1,"# informative cells",2
+"157",2,"# informative cells",6
+"158",2,"# informative cells",10
+"159",2,"# informative cells",5
+"160",2,"# informative cells",5
+"161",2,"# informative cells",3
+"162",2,"# informative cells",3
+"163",2,"# informative cells",4
+"164",2,"# informative cells",4
+"165",2,"# informative cells",4
+"166",1,"# informative cells",6
+"167",2,"# informative cells",4
+"168",2,"# informative cells",5
+"169",2,"# informative cells",7
+"170",2,"# informative cells",2
+"171",2,"# informative cells",4
+"172",2,"# informative cells",4
+"173",2,"# informative cells",4
+"174",2,"# informative cells",2
