@@ -1,0 +1,1043 @@
+Loading required package: R6
+Loading required package: hdf5r
+Registered S3 method overwritten by 'spatstat.geom':
+  method     from
+  print.boxx cli 
+Attaching SeuratObject
+Warning message:
+In initialize(...) :
+  Skipping validation step, some fields are not populated
+retained 27041 cells
+Warning: Non-unique features (rownames) present in the input matrix, making unique
+Warning message:
+In sparseMatrix(i = indices[] + 1, p = indptr[], x = as.numeric(x = counts[]),  :
+  'giveCsparse' has been deprecated; setting 'repr = "T"' for you
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Scaling features for provided objects
+Finding all pairwise anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5388 anchors
+Filtering anchors
+	Retained 5263 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3949 anchors
+Filtering anchors
+	Retained 2706 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4029 anchors
+Filtering anchors
+	Retained 2243 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3405 anchors
+Filtering anchors
+	Retained 2303 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3481 anchors
+Filtering anchors
+	Retained 2010 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3428 anchors
+Filtering anchors
+	Retained 3042 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3563 anchors
+Filtering anchors
+	Retained 2889 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3497 anchors
+Filtering anchors
+	Retained 2594 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4078 anchors
+Filtering anchors
+	Retained 3027 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3271 anchors
+Filtering anchors
+	Retained 2153 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5854 anchors
+Filtering anchors
+	Retained 4961 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6109 anchors
+Filtering anchors
+	Retained 5445 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5556 anchors
+Filtering anchors
+	Retained 1507 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4156 anchors
+Filtering anchors
+	Retained 895 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4680 anchors
+Filtering anchors
+	Retained 1687 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4234 anchors
+Filtering anchors
+	Retained 3686 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4431 anchors
+Filtering anchors
+	Retained 4103 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5104 anchors
+Filtering anchors
+	Retained 1358 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3893 anchors
+Filtering anchors
+	Retained 988 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4422 anchors
+Filtering anchors
+	Retained 1418 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 7409 anchors
+Filtering anchors
+	Retained 7168 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4737 anchors
+Filtering anchors
+	Retained 2773 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4506 anchors
+Filtering anchors
+	Retained 3087 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5571 anchors
+Filtering anchors
+	Retained 1010 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4129 anchors
+Filtering anchors
+	Retained 862 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5058 anchors
+Filtering anchors
+	Retained 1255 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6601 anchors
+Filtering anchors
+	Retained 5956 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5470 anchors
+Filtering anchors
+	Retained 4883 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3683 anchors
+Filtering anchors
+	Retained 2938 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3640 anchors
+Filtering anchors
+	Retained 3087 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4400 anchors
+Filtering anchors
+	Retained 1311 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3634 anchors
+Filtering anchors
+	Retained 1096 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4098 anchors
+Filtering anchors
+	Retained 1378 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5503 anchors
+Filtering anchors
+	Retained 5206 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4685 anchors
+Filtering anchors
+	Retained 4405 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4535 anchors
+Filtering anchors
+	Retained 4189 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3617 anchors
+Filtering anchors
+	Retained 2523 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3445 anchors
+Filtering anchors
+	Retained 2600 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4050 anchors
+Filtering anchors
+	Retained 1272 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3432 anchors
+Filtering anchors
+	Retained 1160 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3752 anchors
+Filtering anchors
+	Retained 1355 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4067 anchors
+Filtering anchors
+	Retained 3881 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3675 anchors
+Filtering anchors
+	Retained 3465 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4148 anchors
+Filtering anchors
+	Retained 4092 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3164 anchors
+Filtering anchors
+	Retained 3022 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3874 anchors
+Filtering anchors
+	Retained 2591 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3602 anchors
+Filtering anchors
+	Retained 2747 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4523 anchors
+Filtering anchors
+	Retained 1253 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3709 anchors
+Filtering anchors
+	Retained 1072 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4221 anchors
+Filtering anchors
+	Retained 1393 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5012 anchors
+Filtering anchors
+	Retained 4569 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4349 anchors
+Filtering anchors
+	Retained 3901 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4889 anchors
+Filtering anchors
+	Retained 4694 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3735 anchors
+Filtering anchors
+	Retained 3468 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3434 anchors
+Filtering anchors
+	Retained 3263 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2265 anchors
+Filtering anchors
+	Retained 1782 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2193 anchors
+Filtering anchors
+	Retained 1776 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2317 anchors
+Filtering anchors
+	Retained 1278 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2253 anchors
+Filtering anchors
+	Retained 1232 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2299 anchors
+Filtering anchors
+	Retained 1326 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2251 anchors
+Filtering anchors
+	Retained 2066 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2204 anchors
+Filtering anchors
+	Retained 2012 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2282 anchors
+Filtering anchors
+	Retained 2197 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2065 anchors
+Filtering anchors
+	Retained 1870 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 1940 anchors
+Filtering anchors
+	Retained 1873 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2097 anchors
+Filtering anchors
+	Retained 2056 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4376 anchors
+Filtering anchors
+	Retained 2407 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3989 anchors
+Filtering anchors
+	Retained 2564 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4891 anchors
+Filtering anchors
+	Retained 1159 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3867 anchors
+Filtering anchors
+	Retained 984 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4533 anchors
+Filtering anchors
+	Retained 1296 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5014 anchors
+Filtering anchors
+	Retained 4238 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4371 anchors
+Filtering anchors
+	Retained 3655 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5308 anchors
+Filtering anchors
+	Retained 4889 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3765 anchors
+Filtering anchors
+	Retained 3144 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 3395 anchors
+Filtering anchors
+	Retained 3145 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4027 anchors
+Filtering anchors
+	Retained 3765 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2252 anchors
+Filtering anchors
+	Retained 2071 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5970 anchors
+Filtering anchors
+	Retained 1793 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5703 anchors
+Filtering anchors
+	Retained 2030 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6142 anchors
+Filtering anchors
+	Retained 838 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4321 anchors
+Filtering anchors
+	Retained 498 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5646 anchors
+Filtering anchors
+	Retained 791 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 7569 anchors
+Filtering anchors
+	Retained 4241 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5972 anchors
+Filtering anchors
+	Retained 3362 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 7018 anchors
+Filtering anchors
+	Retained 5432 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4774 anchors
+Filtering anchors
+	Retained 3116 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4000 anchors
+Filtering anchors
+	Retained 3101 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4899 anchors
+Filtering anchors
+	Retained 3899 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2377 anchors
+Filtering anchors
+	Retained 2002 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6046 anchors
+Filtering anchors
+	Retained 4990 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6885 anchors
+Filtering anchors
+	Retained 5193 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6654 anchors
+Filtering anchors
+	Retained 5219 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5554 anchors
+Filtering anchors
+	Retained 1795 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4173 anchors
+Filtering anchors
+	Retained 1102 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4856 anchors
+Filtering anchors
+	Retained 2201 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 10022 anchors
+Filtering anchors
+	Retained 8501 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6701 anchors
+Filtering anchors
+	Retained 5328 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 6627 anchors
+Filtering anchors
+	Retained 5005 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4946 anchors
+Filtering anchors
+	Retained 4051 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4021 anchors
+Filtering anchors
+	Retained 3285 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 4981 anchors
+Filtering anchors
+	Retained 4012 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 2245 anchors
+Filtering anchors
+	Retained 1629 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 5103 anchors
+Filtering anchors
+	Retained 3841 anchors
+Running CCA
+Merging objects
+Finding neighborhoods
+Finding anchors
+	Found 8183 anchors
+Filtering anchors
+	Retained 4524 anchors
+Merging dataset 12 into 8
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 10 into 8 12
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 9 into 6
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 4 into 3
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 13 into 14
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 7 into 6 9
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 11 into 8 12 10
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 2 into 1
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 1 2 into 15
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 5 into 3 4
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 8 12 10 11 into 6 9 7
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 15 1 2 into 6 9 7 8 12 10 11
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 14 13 into 6 9 7 8 12 10 11 15 1 2
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 3 4 5 into 6 9 7 8 12 10 11 15 1 2 14 13
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data

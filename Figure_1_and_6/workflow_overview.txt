@@ -1,0 +1,45 @@
+10X data analysis workflow
+
+depends on these external files:
+other_data/dev_all.loom: https://storage.googleapis.com/linnarsson-lab-loom/dev_all.loom
+other_data/Mus_musculus.csv: https://github.com/hbc/tinyatlas/tree/master/cell_cycle
+
+depends on cti_Seurat_RAW.RDS file from PatchSeq analysis
+
+10X h5 files from pooled embryo and Pten analysis available via GEO
+
+LaManno_integration/integrate_all.R
+|- needs extensive memory, done on IST cluster
+|- produces: seurat.combined.RDS in LaManno_integration folder
+
+scripts/post_process_Linnarsson_P0_embryo_merged.R
+|- produces plots
+|- produces: ./RDS_files/LaManno_embryonic.combined.CCscored.RDS
+
+scripts/Pten_analysis_01.R
+|- first run produces  ./RDS_files/P0_Pten_ctrl_RAW.RDS
+
+integrate_Pten_e18/Pten_reference_preparation_e18_label_transfer.R
+|- produces integration anchors with LaManno Midbrain and Hindbrain from e18:
+  |- Pten_ctrl_anchors.RDS
+  |- Pten_sparse_anchors.RDS
+  |- LaManno_e18_metadata.RDS
+|- this was done on a different machine with more memory (32GB)
+|- these files are needed in the next step. NOTE: saved in integrate_Pten_e18 folder
+
+scripts/Pten_analysis_01.R
+|- produces plots
+|- produces ./RDS_files/Pten.neuron.seurat.RDS (necessray for next step)
+
+scripts/Pten_analysis_02.R
+|- 3-step process to produce label transfer with embryonic data
+|- needs 3 R restarts to save memory (16GB)
+|- ./RDS_files/Pten_ctrl_anchors.RDS - only used within the script
+|- ./RDS_files/Pten_sparse_anchors.RDS - only within the script
+|- produces: ./RDS_files/Pten_embryonic_link.RDS - necessary for next step
+
+scripts/Pten_analysis_03.R
+|- produces plots
+
+scripts/various_plots.R
+|- produces plots

@@ -1,0 +1,38 @@
+Attaching SeuratObject
+Loading required package: R6
+Loading required package: hdf5r
+Warning message:
+In initialize(...) :
+  Skipping validation step, some fields are not populated
+extracting count data
+Warning: Non-unique features (rownames) present in the input matrix, making unique
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+integrating control
+Performing PCA on the provided reference using 1852 features as input.
+Projecting cell embeddings
+Finding neighborhoods
+Finding anchors
+	Found 7858 anchors
+Filtering anchors
+	Retained 6573 anchors
+integrating KO
+Performing PCA on the provided reference using 1865 features as input.
+Projecting cell embeddings
+Finding neighborhoods
+Finding anchors
+	Found 7727 anchors
+Filtering anchors
+	Retained 6408 anchors
+Error: first step done - restart
+Execution halted
